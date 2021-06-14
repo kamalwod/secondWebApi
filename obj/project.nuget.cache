@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqml78BYZcv3MAhOdBPD0lqMdw7I9dnAVTn1BciARoBr/ktvdN9qSOI4OK1MPSPqd2dYGEZ/kvIOre9ti7/OFQ==",
+  "success": false,
+  "projectFilePath": "E:\\Code\\source\\repos\\SecondWebApp\\SecondWebApp\\SecondWebApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
